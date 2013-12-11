@@ -1,0 +1,11 @@
+.reportItem {
+border-right: 1px solid;
+border-left: 1px solid;
+border-color: #428bca;
+}
+
+.searchList {
+max-width: 285px;
+max-height: 250px;
+overflow: auto;
+}
